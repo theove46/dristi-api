@@ -1,0 +1,44 @@
+{
+    "id": "hr0001",
+    "title": "Sea Pearl Beach Resort",
+    "onImageTitle": "Sea Pearl",
+    "district": "Cox's Bazar",
+    "division": "Chattogram",
+    "category": "Hotels and Resorts",
+    "address": "Jaliapalong, Inani, Ukhia, Cox's Bazar - 4750",
+    "description": "Nilgiri is a collection of multiple variable sizes hill area in Bandarban. Bandarban itself is a hill district in Banglades",
+    "phone": [
+        "01238385034",
+        "34534634646",
+        "34634634663"
+    ],
+    "website": [
+        {
+            "url": "Website",
+            "site": "https://flutter.dev"
+        },
+        {
+            "url": "Facebook",
+            "site": "https://flutter.dev"
+        }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Inani+Beach/@21.23077,92.0418801,16z/data=!4m6!3m5!1s0x30addb734c7ac3eb:0x1b8ecdeeaf8c2b5b!8m2!3d21.2296658!4d92.0475329!16s%2Fm%2F0pmfczc?entry=ttu",
+    "images": [
+        {
+            "url": "https://drive.google.com/uc?export=view&id=19tpZYfWVQvceQov0M_wCkrdROrOpn563",
+            "credit": "Dristi 360"
+        },
+        {
+            "url": "https://drive.google.com/uc?export=view&id=12qCZkxtcoPGepU5SP7NWHfO80TCa1PFQ",
+            "credit": "Dristi 360"
+        },
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1R3O8d93MEqPSuKIhppxw2vWZ051eRiVQ",
+            "credit": "Dristi 360"
+        },
+        {
+            "url": "https://drive.google.com/uc?export=view&id=1lYLM4_CNK6gtEnF7n-85DUlpIaT0t_W4",
+            "credit": "Dristi 360"
+        }
+    ]
+}
